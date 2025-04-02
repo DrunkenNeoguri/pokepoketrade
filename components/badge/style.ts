@@ -9,6 +9,7 @@ export const badgeStyle = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     boxSizing: 'border-box',
+    fontFamily: 'suite',
     fontSize: 8,
     lineHeight: 10,
     fontWeight: 500,

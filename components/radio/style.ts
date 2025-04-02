@@ -30,6 +30,7 @@ export const radioStyle = StyleSheet.create({
     backgroundColor: '#ffffff',
   },
   label: {
+    fontFamily: 'suite',
     fontSize: 12,
     lineHeight: 16,
     fontWeight: 400,

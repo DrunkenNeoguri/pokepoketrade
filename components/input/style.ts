@@ -9,6 +9,7 @@ export const inputStyle = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     boxSizing: 'border-box',
+    fontFamily: 'suite',
     fontSize: 16,
     lineHeight: 20,
     fontWeight: 400,

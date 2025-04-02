@@ -19,6 +19,7 @@ export const chipStyle = StyleSheet.create({
     backgroundColor: '#6D7C93',
   },
   text: {
+    fontFamily: 'suite',
     fontSize: 12,
     lineHeight: 16,
     fontWeight: 500,

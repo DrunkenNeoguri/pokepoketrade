@@ -25,6 +25,7 @@ export const buttonStyle = StyleSheet.create({
     backgroundColor: '#E3EDF6',
   },
   textBasic: {
+    fontFamily: 'suite',
     fontSize: 16,
     lineHeight: 20,
     fontWeight: 600,

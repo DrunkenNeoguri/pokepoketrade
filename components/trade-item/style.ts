@@ -20,6 +20,7 @@ export const tradeItemStyle = StyleSheet.create({
     width: '100%',
   },
   title: {
+    fontFamily: 'suite',
     fontSize: 12,
     lineHeight: 16,
     fontWeight: 700,
@@ -34,6 +35,7 @@ export const tradeItemStyle = StyleSheet.create({
     gap: 8,
   },
   tradeItemText: {
+    fontFamily: 'suite',
     fontSize: 12,
     lineHeight: 16,
     fontWeight: 400,
